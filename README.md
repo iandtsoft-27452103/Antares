@@ -57,8 +57,6 @@ King-King-Piece and King-Piece-Piece are adopted int (2) and (3). This features 
 
 Double click "Antares.sln" and build with using Visual Studio. I identified this software is running in debug build and do not identified in release build.
 
-go build
-
 ## References
 
 I developed this software referring to the softwares as below.
